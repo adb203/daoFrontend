@@ -6,6 +6,10 @@ truffle migrate --reset --compile-all
 
 npm start
 
+perform the smart contract tests by using this command:
+
+truffle test
+
 
 # Getting Started with Create React App
 
