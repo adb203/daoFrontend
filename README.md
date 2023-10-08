@@ -1,3 +1,5 @@
+my dao implementation. It has the react code and smart contract inside.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
