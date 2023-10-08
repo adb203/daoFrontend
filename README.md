@@ -3,6 +3,7 @@ my dao implementation. It has the react code and smart contract inside.
 start the frontend by typing the following commands in the console:
 
 truffle migrate --reset --compile-all
+
 npm start
 
 
