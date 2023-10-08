@@ -1,5 +1,11 @@
 my dao implementation. It has the react code and smart contract inside.
 
+start the frontend by typing the following commands in the console:
+
+truffle migrate --reset --compile-all
+npm start
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
